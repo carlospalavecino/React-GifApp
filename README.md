@@ -4,10 +4,13 @@ Practica del curso de Fernando Herrera
 
 ---
 
-### Conocimientos aplicados
+### Temas aplicados
 - Custom Hooks
 - Consumo de API externa
 - Comunicación entre componentes
+- Pruebas de integracion y unitarias
+  - Jest
+  - Testing Library
 
 ---
 
