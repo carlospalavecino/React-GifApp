@@ -5,8 +5,9 @@ Practica del curso de Fernando Herrera
 ---
 
 ### Temas aplicados
-- Custom Hooks
-- Consumo de API externa
+- useState
+- useReducer
+- Custom Hook para consumir API externa
 - Comunicación entre componentes
 - Pruebas de integracion y unitarias
   - Jest
